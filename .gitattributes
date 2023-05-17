@@ -1,0 +1,4 @@
+.vs/TermProject/v16/ipch/e1de9455698b7f5a.ipch filter=lfs diff=lfs merge=lfs -text
+Debug/TermProject.pdb filter=lfs diff=lfs merge=lfs -text
+.vs/TermProject/v16/ipch/f0a6b8f64ccf253a.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/TermProject/v16/ipch/AutoPCH/c66f5ad5290430b/APPMODUL.ipch filter=lfs diff=lfs merge=lfs -text

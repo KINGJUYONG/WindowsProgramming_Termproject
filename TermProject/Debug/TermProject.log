@@ -1,0 +1,6 @@
+﻿  CTab2.cpp
+C:\Users\kingjuyong\source\repos\TermProject\TermProject\CTab2.h(45,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTab2' 왼쪽은 무시됩니다.
+  TermProjectDlg.cpp
+C:\Users\kingjuyong\source\repos\TermProject\TermProject\CTab2.h(45,2): warning C4091: 'static ': 변수를 선언하지 않으면 'CTab2' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+  TermProject.vcxproj -> C:\Users\kingjuyong\source\repos\TermProject\Debug\TermProject.exe
